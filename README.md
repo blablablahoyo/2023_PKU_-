@@ -44,8 +44,11 @@ http://blablablahoyo.github.io/01.py
 ### 程式码：
 http://blablablahoyo.github.io/02.py
 
+### DATA在data資料夾中
+http://blablablahoyo.github.io/data
+
 ### 作业连结：
-1. http://blablablahoyo.github.io/清华北大招生人数.html \n
+1. http://blablablahoyo.github.io/清华北大招生人数.html
 2. http://blablablahoyo.github.io/台湾学生出国留学数据地图_geo.html
 
 ### 参考资料：
