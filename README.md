@@ -26,6 +26,8 @@
 ### 程式码：
 http://blablablahoyo.github.io/01.py
 
+### 程式码中引用到的DATA在data资料夹中
+
 ### 作业连结：
 1. http://blablablahoyo.github.io/毛语录-人物词频.csv
 2. http://blablablahoyo.github.io/毛语录-人物词频.png
@@ -43,9 +45,6 @@ http://blablablahoyo.github.io/01.py
 
 ### 程式码：
 http://blablablahoyo.github.io/02.py
-
-### DATA在data資料夾中
-http://blablablahoyo.github.io/data
 
 ### 作业连结：
 1. http://blablablahoyo.github.io/清华北大招生人数.html
