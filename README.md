@@ -31,7 +31,6 @@ http://blablablahoyo.github.io/毛语录-人物词频.csv
 http://blablablahoyo.github.io/毛语录-人物词频.png
 http://blablablahoyo.github.io/毛语录-人物词云.html
 
------------------------------------
 ## 题目二：
 ### 题目要求：
 中国地图、世界地图（自己设定故事背景）
@@ -52,7 +51,7 @@ http://blablablahoyo.github.io/台湾学生出国留学数据地图_geo.html
 ### 参考资料：
 https://shirley.tw/2021y-study-abroad/
 https://new.qq.com/rain/a/20210719A0EBFG00
------------------------------------
+
 ## 题目三：
 ### 题目要求：
 组合图表（自己设定故事背景）
