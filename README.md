@@ -27,8 +27,8 @@
 http://blablablahoyo.github.io/01.py
 
 ### 作业连结：
-http://blablablahoyo.github.io/毛语录-人物词频.csv
-http://blablablahoyo.github.io/毛语录-人物词频.png
+http://blablablahoyo.github.io/毛语录-人物词频.csv \n
+http://blablablahoyo.github.io/毛语录-人物词频.png \n
 http://blablablahoyo.github.io/毛语录-人物词云.html
 
 ## 题目二：
@@ -45,7 +45,7 @@ http://blablablahoyo.github.io/毛语录-人物词云.html
 http://blablablahoyo.github.io/02.py
 
 ### 作业连结：
-http://blablablahoyo.github.io/清华北大招生人数.html
+http://blablablahoyo.github.io/清华北大招生人数.html \n
 http://blablablahoyo.github.io/台湾学生出国留学数据地图_geo.html
 
 ### 参考资料：
