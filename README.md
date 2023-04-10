@@ -27,9 +27,9 @@
 http://blablablahoyo.github.io/01.py
 
 ### 作业连结：
-http://blablablahoyo.github.io/毛语录-人物词频.csv \n
-http://blablablahoyo.github.io/毛语录-人物词频.png \n
-http://blablablahoyo.github.io/毛语录-人物词云.html
+1. http://blablablahoyo.github.io/毛语录-人物词频.csv
+2. http://blablablahoyo.github.io/毛语录-人物词频.png
+3. http://blablablahoyo.github.io/毛语录-人物词云.html
 
 ## 题目二：
 ### 题目要求：
@@ -45,12 +45,12 @@ http://blablablahoyo.github.io/毛语录-人物词云.html
 http://blablablahoyo.github.io/02.py
 
 ### 作业连结：
-http://blablablahoyo.github.io/清华北大招生人数.html \n
-http://blablablahoyo.github.io/台湾学生出国留学数据地图_geo.html
+1. http://blablablahoyo.github.io/清华北大招生人数.html \n
+2. http://blablablahoyo.github.io/台湾学生出国留学数据地图_geo.html
 
 ### 参考资料：
-https://shirley.tw/2021y-study-abroad/
-https://new.qq.com/rain/a/20210719A0EBFG00
+1. https://shirley.tw/2021y-study-abroad/
+2. https://new.qq.com/rain/a/20210719A0EBFG00
 
 ## 题目三：
 ### 题目要求：
