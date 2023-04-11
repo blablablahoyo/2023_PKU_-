@@ -3,7 +3,7 @@
 学号：2200921845
 姓名：洪巧芸
 
-## 题目一：
+## 题目一
 ### 题目要求：
 词频统计图  选择自己熟悉领域的某一长篇文本进行某一类词的词频分析（也可选科研著作）
 将结果可视化，可使用柱状图或词云，也可用课上未讲到的其他图表形式
@@ -35,7 +35,7 @@ http://blablablahoyo.github.io/01.py
 2. http://blablablahoyo.github.io/毛语录-人物词频.png
 3. http://blablablahoyo.github.io/毛语录-人物词云.html
 
-## 题目二：
+## 题目二
 ### 题目要求：
 中国地图、世界地图（自己设定故事背景）
 
@@ -60,7 +60,7 @@ http://blablablahoyo.github.io/data/台湾学生出国流向.csv
 1. https://shirley.tw/2021y-study-abroad/
 2. https://new.qq.com/rain/a/20210719A0EBFG00
 
-## 题目三：
+## 题目三
 ### 题目要求：
 组合图表（自己设定故事背景）
 
