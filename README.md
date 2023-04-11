@@ -46,7 +46,8 @@ http://blablablahoyo.github.io/01.py
 4. 找出前20个国家 标记数量
 
 ### 程式码：
-http://blablablahoyo.github.io/02.py
+1. http://blablablahoyo.github.io/data/world_country.json
+2. http://blablablahoyo.github.io/02.py
 
 ### 程式码中引用到的DATA在data资料夹中
 http://blablablahoyo.github.io/data/台湾学生出国流向.csv
