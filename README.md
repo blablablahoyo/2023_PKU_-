@@ -65,9 +65,12 @@
 # 第二次课程作业
 ## 题目一
 ### 题目要求：
-完成课上实现的某个搜索引擎的搜索功能
-### 作业连结：
+   完成课上实现的某个搜索引擎的搜索功能
+### 代码链接：
+   [Google搜寻](http://blablablahoyo.github.io/search_engine.html "link")
 
 ## 题目二
 ### 题目要求：
 选一部著作，可以是之前分析词频的作品，分析人物（或其他关键词）“共现”，生成关系图；用本次课学到的网页设计技术，设计一个简单的网页，放置关系图和相关说明
+### 代码链接：
+   [Google搜寻](http://blablablahoyo.github.io/search_engine.html "link")
