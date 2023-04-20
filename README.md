@@ -68,11 +68,15 @@
 ## 题目一
 ### 题目要求：
    完成课上实现的某个搜索引擎的搜索功能
+### 作业说明：
+面对问题时习惯以Google进行搜索，所以决定选择制作Google Search的小视窗，自己也重新将Google标志颜色做了一些更动。
 ### 代码链接：
    [Google搜寻](http://blablablahoyo.github.io/search_engine.html "link")
 
 ## 题目二
 ### 题目要求：
 选一部著作，可以是之前分析词频的作品，分析人物（或其他关键词）“共现”，生成关系图；用本次课学到的网页设计技术，设计一个简单的网页，放置关系图和相关说明
+### 作业说明：
+来到北京后一直很想去“大观园”因此在制作人物关系图时选择分析红楼梦。
 ### 代码链接：
    [Google搜寻](http://blablablahoyo.github.io/search_engine.html "link")
