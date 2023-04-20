@@ -24,8 +24,8 @@
 ### 4.代码链接
 1. 主架構 <http://blablablahoyo.github.io/01.py>
 2. 主架構中引用到的Data資料
-* [world_cointry.jason](http://blablablahoyo.github.io/data/world_country.json "link")
-* [毛语录.txt](http://blablablahoyo.github.io/data/毛语录.txt "link")
+  1. [world_cointry.jason](http://blablablahoyo.github.io/data/world_country.json "link")
+  2. [毛语录.txt](http://blablablahoyo.github.io/data/毛语录.txt "link")
 
 ### 代码：
 [代码](http://blablablahoyo.github.io/01.py "link")
